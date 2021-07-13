@@ -28,7 +28,7 @@ desde aplicaciones sencillas basadas en la nube hasta aplicaciones empresariales
 <img src="https://1.bp.blogspot.com/-2DR0OkVsqrg/WrB4c4MH_UI/AAAAAAAACOY/Ra8qifgeAwohR12r0g2KKnsSAKHn51q1gCPcBGAYYCw/s1600/3.png"> 
 
 <h2>¿Qué es la informática en la nube?</h2>
-<p>Entrega de servicios informáticos a través de internet (Servidores, almacenamiento, bases de datos, redes, software, análisis e IA. NNormalmente solo se paga por los servicios en la nube que se usan, lo que permite:</p>
+<p>Entrega de servicios informáticos a través de internet (Servidores, almacenamiento, bases de datos, redes, software, análisis e IA. Normalmente solo se paga por los servicios en la nube que se usan, lo que permite:</p>
 
 <ul>
 <li>Reducir los costos operativos. </li>
@@ -38,21 +38,27 @@ desde aplicaciones sencillas basadas en la nube hasta aplicaciones empresariales
 
 <h3>Ventajas de migrar a la nube</h3>
 <img src="https://asm.es/wp-content/uploads/2019/09/Ventajas-Microsoft-Azure-Cloud-1-1024x576.jpg">
-<p>Hay dos tendencias que surgen en este tiempo: </p>
+<b><p>Hay dos tendencias que surgen en este tiempo: </p></b>
 <ul>
 <li> Los equipos proporcionan nuevas características a los usuarios a velocidades récord.</li>
 <li> Los usuarios esperan una experiencia cada vez más amplia y envolvente con sus dispositivos y con el software.</li>
 </ul>
 
-<p>Para desarrollar los servicios y ofrecer experiencias de usuario innovadoras y novedosas más rápidamente, la nube proporciona acceso a petición para: </p>
+<b><p>Para desarrollar los servicios y ofrecer experiencias de usuario innovadoras y novedosas más rápidamente, la nube proporciona acceso a petición para: </p></b>
 <ul>
 <li>Un grupo casi ilimitado de componentes de proceso, almacenamiento y redes sin procesar. </li>
 <li>Reconocimiento de voz y otros servicios cognitivos que ayudan a hacer que su aplicación destaque entre la multitud. </li>
 <li> Servicios de análisis que proporcionan datos de telemetría desde el software y los dispositivos.</li>
 </ul>
 
+<img src="https://github.com/ThonamzinBarcenas/RepositorioThonamzinIram/blob/main/Que%20ofrece%20Azure.PNG?raw=true">
+<img src="https://github.com/ThonamzinBarcenas/RepositorioThonamzinIram/blob/main/Que%20puedo%20hacer%20con%20Azure.PNG?raw=true">
 <h2> </h2>
 
+  
+  
+  
+  
 <h1><li> Conceptos fundamentales de Azure</li> </h1> 
 <h1><li> Descripción de los componentes principales de la arquitectura de Azure </li></h1>
 </ol>
